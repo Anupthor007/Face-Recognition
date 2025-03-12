@@ -1,4 +1,3 @@
-# Face-Recognition
 # Face Recognition Project
 
 This repository contains a project for face recognition, implemented in Python using machine learning techniques. The project is designed to detect and recognize human faces from images or videos.
