@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### Step 1: Clone the Repository
 
 ```bash
-[git clone https://github.com/yourusername/face-recognition.git
+[git clone https://github.com/Anupthor007/face-recognition.git
 ](https://github.com/Anupthor007/Face-Recognition.git
 cd face-recognition
 ```
